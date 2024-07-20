@@ -15,14 +15,14 @@
 
 Linux:
 ```
-git clone https://github.com/soupfoo/graphit.git
+git clone https://github.com/graphit.git
 cd graphit
 sh run.sh
 ```
 
 Windows:
 ```
-git clone https://github.com/soupfoo/graphit.git
+git clone https://github.com/graphit.git
 cd graphit
 ./run.ps1
 ```
